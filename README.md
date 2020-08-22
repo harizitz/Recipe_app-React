@@ -21,15 +21,7 @@
 
 `$ npm install <required dependencies>`
 
-#### Frontend
-
 `$ npm start`
-
-#### Backend
-
-`$ cd backend`
-
-`$ nodemon server`
 
 ## SCREENSHOTS 📸
 
