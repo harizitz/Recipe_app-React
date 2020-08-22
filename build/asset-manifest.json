@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recipe-finder-app/static/css/main.7dbcf09d.chunk.css",
+    "main.js": "/recipe-finder-app/static/js/main.a247d6a2.chunk.js",
+    "main.js.map": "/recipe-finder-app/static/js/main.a247d6a2.chunk.js.map",
+    "runtime~main.js": "/recipe-finder-app/static/js/runtime~main.0958b62e.js",
+    "runtime~main.js.map": "/recipe-finder-app/static/js/runtime~main.0958b62e.js.map",
+    "static/js/2.393fa024.chunk.js": "/recipe-finder-app/static/js/2.393fa024.chunk.js",
+    "static/js/2.393fa024.chunk.js.map": "/recipe-finder-app/static/js/2.393fa024.chunk.js.map",
+    "index.html": "/recipe-finder-app/index.html",
+    "precache-manifest.a70fd9d54414ead491717eefb971de02.js": "/recipe-finder-app/precache-manifest.a70fd9d54414ead491717eefb971de02.js",
+    "service-worker.js": "/recipe-finder-app/service-worker.js",
+    "static/css/main.7dbcf09d.chunk.css.map": "/recipe-finder-app/static/css/main.7dbcf09d.chunk.css.map"
+  }
+}
