@@ -3,7 +3,7 @@
  **[🌐 Web Version ](https://recipefinderreactapp.netlify.app "VISIT WEBSITE 🌐")**
 
 - It contains a search component
-- When the user enters a recipe name or ingredient, it fetches and displays all the recipes associated with the ingredient or dish
+- When the user enters a recipe name or ingredient, it fetches and displays all the recipes associated with the ingredient or dish 
 
 ---
 
